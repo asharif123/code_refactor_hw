@@ -24,7 +24,7 @@ body {
     font-size: 48px;
 }
 
-.header div {
+.header ul {
     padding-top: 15px;
     margin-right: 20px;
     float: right;
@@ -32,11 +32,11 @@ body {
     font-size: 20px;
 }
 
-.header div ul {
+.header ul {
     list-style-type: none;
 }
 
-.header div ul li {
+.header ul li {
     display: inline-block;
     margin-left: 25px;
 }
@@ -78,7 +78,6 @@ p {
 .benefits {
     margin-right: 20px;
     padding: 20px;
-    clear: both;
     float: right;
     width: 20%;
     height: 100%;
@@ -188,13 +187,12 @@ p {
     font-size: 36px;
 }
 
-.footer {
+footer {
     padding: 30px;
-    clear: both;
     font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
     text-align: center;
 }
 
-.footer h2 {
+footer h2 {
     font-size: 20px;
 }
