@@ -11,7 +11,7 @@ body {
 
 .header {
     padding: 20px;
-    background-color: #2a607c;
+    background-color: #1f9ad8;
     color: #ffffff;
     position: fixed;
     top: 0;
@@ -20,8 +20,9 @@ body {
 }
 
 .header h1 {
-    display: inline;
+    
     font-size: 48px;
+    float: left;
 }
 
 .header ul {
@@ -29,15 +30,12 @@ body {
     margin-right: 20px;
     float: right;
     font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    list-style-type: none;
     font-size: 20px;
 }
 
-.header ul {
-    list-style-type: none;
-}
-
 .header ul li {
-    display: inline-block;
+    display: inline;
     margin-left: 25px;
 }
 
@@ -78,6 +76,7 @@ p {
 .benefits {
     margin-right: 20px;
     padding: 20px;
+    /* moves the benefits div to the right of website */
     float: right;
     width: 20%;
     height: 100%;
