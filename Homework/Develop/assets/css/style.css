@@ -69,7 +69,6 @@ p {
     margin-left: 25px;
 }
 
-
 .content {
     width: 75%;
     /* moves the contect section to the left */
@@ -102,7 +101,7 @@ p {
 .benefit-lead img, .benefit-brand img, .benefit-cost img {
     display: block;
     margin: 10px auto;
-    max-width: 150px;
+    height: 150px;
 }
 
 #search-engine-optimization, #online-reputation-management, #social-media-marketing  {
