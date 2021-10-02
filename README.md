@@ -1,5 +1,3 @@
-01 Code Refactor
-
 Code Refactor website involves updating the HTML code to be written more semantically but having the same function as without having semantic tags.
 
 The website is a demonstration of a typical website containing a navigation bar, photo, sections containing description and header on what the section is about, and a sidebar containing additional headers and information.
