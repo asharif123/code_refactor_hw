@@ -1,3 +1,5 @@
+Link to deployed website: https://asharif123.github.io/code_refactor_hw/
+
 Code Refactor website involves updating the HTML code to be written more semantically but having the same function as without having semantic tags.
 
 The website is a demonstration of a typical website containing a navigation bar, photo, sections containing description and header on what the section is about, and a sidebar containing additional headers and information.
@@ -13,8 +15,3 @@ Screenshots of website:
 - ![image](https://user-images.githubusercontent.com/49471791/135407029-68482866-65ef-4c02-b257-0aa5d078f8bf.png)
 
 
-
-
-Link to website:
-
-https://asharif123.github.io/code_refactor_hw/
