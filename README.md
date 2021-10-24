@@ -8,6 +8,20 @@ This website was created using HTML and CSS styling.
 
 Screenshots of website:
 
+These are the main components of the website containing a non-clickable navigation bar, a main image, a footer, and sections for the following categories with their own descriptions:
+
+1) Search engine optimization
+
+2) Online Reputation Management
+
+3) Social Media Marketing
+
+4) Lead Generation
+
+5) Brand Awareness
+
+6) Cost Management
+
 - ![image](https://user-images.githubusercontent.com/49471791/135406798-31ce66b7-8395-4383-853d-aab6924f059f.png)
 
 - ![image](https://user-images.githubusercontent.com/49471791/135406971-0f3c61f7-d5a7-46f2-adae-4959a0148908.png)
