@@ -2,7 +2,7 @@ Code Refactor website involves updating the HTML code to be written more semanti
 
 The website is a demonstration of a typical website containing a navigation bar, photo, sections containing description and header on what the section is about, and a sidebar containing additional headers and information.
 
-The purpose of this website is to demonstrate basic understanding of HTML and CSS code.
+This website was created using HTML and CSS styling.
 
 Screenshots of website:
 
